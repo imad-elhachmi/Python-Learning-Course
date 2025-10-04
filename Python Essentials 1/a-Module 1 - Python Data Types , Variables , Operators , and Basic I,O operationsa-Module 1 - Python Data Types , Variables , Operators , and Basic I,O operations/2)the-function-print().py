@@ -20,3 +20,8 @@ world""") #hello
 #new line \n 
 print("hello \nworld")
 #this is comment Python doesn't read it.
+"""this is multi 
+line comment
+ Python doesn't 
+ read it"""
+
