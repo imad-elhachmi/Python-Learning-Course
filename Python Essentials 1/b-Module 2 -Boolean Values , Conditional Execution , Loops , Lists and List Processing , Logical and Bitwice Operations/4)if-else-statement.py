@@ -23,9 +23,13 @@ elif n < a :
     print("n < a" )
 else :
     print("n = a")
+# the function max() and function min()
+print(max(2,74,876,8)) #876
+print(min(354,-55,8953,77,-376365)) #-376365
 
 # exit() : The exit() function is used to terminate the program or end the current Python session
 n = -1
 if n == -1 :
     exit()
 print("hello") #it will not print
+
