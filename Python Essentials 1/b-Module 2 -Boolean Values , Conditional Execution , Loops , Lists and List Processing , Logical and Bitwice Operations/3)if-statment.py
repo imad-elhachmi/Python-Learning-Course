@@ -22,7 +22,7 @@ x = int(input("enter a integer number :"))
 if x % 2 == 0 :
     print(x , "is even")
 if x % 2 == 1 :
-    print(x , "is od")
+    print(x , "is odd")
 if x > 100 :
     print(x , " is greater than 100")
 if x < 100 :
