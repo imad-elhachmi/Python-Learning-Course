@@ -15,14 +15,14 @@ the condition is checked—if it's true, the loop runs; if it's false, the loop 
 """
 #practice 
 i = 0
-while i < 9 : 
+while i <= 9 : 
     print(i)  # 0 1 2 3 4 5 6 7 8 9 (digits)
     i+=1
 
 #infinite loop :
 #while True :
 #    print("help")
-                            #foor loop
+#--------------------------------#foor loop----------------------------------
 #the function range() : range(start,end,step)
 x = range(9)
 y = range(4 , 9)
