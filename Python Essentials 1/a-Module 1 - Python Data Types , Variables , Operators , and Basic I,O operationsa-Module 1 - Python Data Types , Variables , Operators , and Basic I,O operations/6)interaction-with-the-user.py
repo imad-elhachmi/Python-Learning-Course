@@ -5,6 +5,6 @@ print(f"hmm...{anything}...really?")
 #solution :
 name = str(input("enter your name :"))
 age = int(input("enter your age : "))
-year_of_brith = int(input("enter your year of brith : "))
+year_of_birth = int(input("enter your year of birth : "))
 highest_grade = float(input("enter your highest grade you achieved in their academic journey : "))
-print(f"hi {name} : \nyour age is : {age}\nyear of brith is : {year_of_brith}\nhighest grade you achieved in their academic journey : {highest_grade} ")
+print(f"hi {name} : \nyour age is : {age}\nyear of birth is : {year_of_birth}\nhighest grade you achieved in their academic journey : {highest_grade} ")
